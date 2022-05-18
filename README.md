@@ -1,4 +1,4 @@
-# DIY-Wordle
+# Wordle Utility
 
 This code shows my knowledge of file manipulation, tuples, sets, and dictionaries.
 
